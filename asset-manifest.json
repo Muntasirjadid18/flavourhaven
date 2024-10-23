@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef4bf82e.css",
+    "main.js": "/static/js/main.21716438.js",
+    "static/js/453.33d21bf9.chunk.js": "/static/js/453.33d21bf9.chunk.js",
+    "static/media/img-hero2.jpeg": "/static/media/img-hero2.59282063aebe9f2f63c6.jpeg",
+    "static/media/blog1.jpg": "/static/media/blog1.3d7e9e9945276c7c3c70.jpg",
+    "static/media/blog2.jpg": "/static/media/blog2.117ebae82cb7684936f5.jpg",
+    "static/media/img9.webp": "/static/media/img9.8d168b63d8b24f492404.webp",
+    "static/media/img-hero1.jpg": "/static/media/img-hero1.ad43cd4fead0348d2557.jpg",
+    "static/media/img-hero3.jpg": "/static/media/img-hero3.7b2b806a5bc9de2993c4.jpg",
+    "static/media/bg-testimonial.jpg": "/static/media/bg-testimonial.4d700d82e18453cd6ca0.jpg",
+    "static/media/img8.jpg": "/static/media/img8.9c3c3d7befb6eb9ded35.jpg",
+    "static/media/img3.jpg": "/static/media/img3.883dcc797363d7c68535.jpg",
+    "static/media/img1.jpg": "/static/media/img1.cf454deb715ea69e5559.jpg",
+    "static/media/img6.jpg": "/static/media/img6.926a9bd75a3f4030c8ec.jpg",
+    "static/media/img2.jpg": "/static/media/img2.48151c38504aca44e03d.jpg",
+    "static/media/img4.jpg": "/static/media/img4.453a7176dc1c03b38652.jpg",
+    "static/media/img5.jpg": "/static/media/img5.cdd2849904dbc925a2f9.jpg",
+    "static/media/img7.jpg": "/static/media/img7.64b802c6a38c67b4567b.jpg",
+    "static/media/team6.jpg": "/static/media/team6.c5518bc21b7446fd4211.jpg",
+    "static/media/team1.jpg": "/static/media/team1.2d96ba71ca1375db9384.jpg",
+    "static/media/img10.jpg": "/static/media/img10.057444e1aedf34fa4909.jpg",
+    "static/media/blog3.jpg": "/static/media/blog3.86e972a0fd73225696e3.jpg",
+    "static/media/team8.jpg": "/static/media/team8.dbad008744c6866518c2.jpg",
+    "static/media/team2.jpg": "/static/media/team2.31db3cda56d14cba3b1d.jpg",
+    "static/media/team5.jpg": "/static/media/team5.6a7ef0ff8846a887844c.jpg",
+    "static/media/team4.jpg": "/static/media/team4.991287756e86e5da7d78.jpg",
+    "static/media/team7.jpg": "/static/media/team7.cc23f54ccd47217f77c9.jpg",
+    "static/media/team3.jpeg": "/static/media/team3.50b20b1ff237bab798cb.jpeg",
+    "index.html": "/index.html",
+    "main.ef4bf82e.css.map": "/static/css/main.ef4bf82e.css.map",
+    "main.21716438.js.map": "/static/js/main.21716438.js.map",
+    "453.33d21bf9.chunk.js.map": "/static/js/453.33d21bf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef4bf82e.css",
+    "static/js/main.21716438.js"
+  ]
+}
